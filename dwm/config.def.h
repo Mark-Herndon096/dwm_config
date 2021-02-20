@@ -6,8 +6,8 @@ static const unsigned int gappx     = 6;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "DejaVuSansMono:size=13" };
-static const char dmenufont[]       = "DejaVuSansMono:size=11";
+static const char *fonts[]          = { "DejavuSansMono:size=13" };
+static const char dmenufont[]       = "DejavuSansMono:size=11";
 static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#8be9fd"; //"#444444";
 static const char col_gray3[]       = "#bbbbbb";
